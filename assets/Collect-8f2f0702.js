@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o,b as t}from"./index-cb6920fd.js";const s={},_={class:"collect"},n=t("h2",null,"Collect",-1),l=[n];function a(r,d){return c(),o("div",_,l)}const f=e(s,[["render",a]]);export{f as default};
